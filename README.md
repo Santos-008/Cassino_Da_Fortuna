@@ -7,7 +7,9 @@ FUNCIONAMENTO:
 Ao executar o programa, o usuário deverá depositar um valor desejado e escolher um valor de aposta, o resultado é calculado com base em 3 números sorteados de 0 a 2, com os resultados possíveis:
 
 Três números diferentes: O usuário perde todo o valor apostado
+
 Dois números iguais: O usuário perde metade do valor apostado
+
 Três números iguais: O usuário ganha o dobro do valor apostado
 
 O programa roda em um loop eterno, e só é encerrado quando o usuário decidir que não quer fazer uma nova aposta depois de ter apostado.
